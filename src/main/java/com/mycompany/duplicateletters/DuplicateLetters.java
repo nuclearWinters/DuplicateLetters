@@ -34,7 +34,7 @@ public class DuplicateLetters
             }
         }
          
-        System.out.println("Duplicate characters excluding white space :");
+        System.out.println("Letras suplicadas excepto signos de puntiuación: ");
          
         //Print duplicate characters excluding white space
         for(char c : map.keySet()) {
